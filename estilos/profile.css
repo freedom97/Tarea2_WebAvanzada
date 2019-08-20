@@ -1,0 +1,78 @@
+#item-home2,#item-perfil2,#item-resumen2,#item-servicios2,#item-portafolio2,#item-clientes2,#item-blog2,#item-contact2{
+    color: white;
+}
+#item-NT2{
+    color: black;
+    font-family: fantasy;
+}
+#item-profile-2{
+    color: white;
+    font-family: fantasy;
+}
+#icono-2{
+    font-size: 20px;
+    color: white;
+}
+
+#centro{
+    width: 100%;
+    height: 900px;
+    margin-top:10px;
+    background-color:#EEEEEE;
+   
+   
+    border: 1px solid white;
+}
+#centro h1{
+    color:black;
+    padding-top:70px;
+    text-align: center; 
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#centro-izq{
+    width: 480px;
+    height: 180px;
+    margin-top: 100px;
+    margin-left: 10px;
+    float: left; 
+    border: 1px solid white;
+
+}
+
+#centro-abajo-izq{
+    width: 480px;
+    height: 180px;
+    position: relative;
+    top: 20%;
+   
+    margin-left: 10px;
+   
+   
+   
+}
+
+#centro-der{
+    width: 580px;
+    height: 180px;
+    position: relative;
+    top: -8%;
+    
+    margin-left: 10px;
+    float: right; 
+    border: 1px solid white;
+}
+
+#centro-abajo-der{
+    width: 580px;
+    height: 180px;
+    position: relative;
+    top: 8%;
+   
+    margin-left: 400px;
+    float: right; 
+    border: 1px solid white;
+
+}
